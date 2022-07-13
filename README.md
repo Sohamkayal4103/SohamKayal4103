@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Soham</h1>
-<h3 align="center">I'm a second year student from University of Mumbai.</h3>
+<h3 align="center">I'm a third year student from University of Mumbai.</h3>
 
 
 ----------------------------------------------------
