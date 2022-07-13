@@ -12,7 +12,7 @@
 * ✉️  You can contact me at [kayalsoham61@gmail.com](mailto:kayalsoham61@gmail.com)
 * 🧠  I'm learning Node.js and Express.js
 * 🤝  I'm open to collaborating on Open Source Project
-* ⚡  I also do competitive programming and actively give contests on platforms like CodeChef and CodeForces.
+* ⚡  I also do competitive programming and actively participate in contests on platforms like CodeChef and CodeForces.
 
 <a href="https://www.twitter.com/kayal_soham" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/kayal_soham?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
