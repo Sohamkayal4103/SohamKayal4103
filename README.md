@@ -8,7 +8,7 @@
 
 ----------------------------------------------------
 
-* 🌍  I'm based in Mumbai
+* 🌍  Mumbai
 * ✉️  You can contact me at [kayalsoham61@gmail.com](mailto:kayalsoham61@gmail.com)
 * 🧠  I'm learning Node.js and Express.js
 * 🤝  I'm open to collaborating on Open Source Project
