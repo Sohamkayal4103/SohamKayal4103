@@ -10,7 +10,8 @@
 
 * 🌍  Mumbai
 * ✉️  You can contact me at [kayalsoham61@gmail.com](mailto:kayalsoham61@gmail.com)
-* 🧠  I'm learning Node.js and Express.js
+* 🔭  I.m working on MERN Stack.
+* 🧠  I'm learning Blockchain Development. 
 * 🤝  I'm open to collaborating on Open Source Project
 * ⚡  I also do competitive programming and actively participate in contests on platforms like CodeChef and CodeForces.
 
