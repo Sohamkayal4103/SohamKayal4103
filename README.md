@@ -3,14 +3,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Soham</h1>
-<h3 align="center">I'm a final year student from University of Mumbai.</h3>
+<h3 align="center">Full-Stack || Blockchain || Freelancer || Problem-Solver</h3>
 
 
 ----------------------------------------------------
 
-* 🌍  Mumbai
+* 🌍  Mumbai, India
 * ✉️  You can contact me at [kayalsoham61@gmail.com](mailto:kayalsoham61@gmail.com)
-* 🔭  I.m working on MERN Stack and blockchain.
+* 🔭  I.m working on Full-Stack and Blockchain Development.
 * 🧠  I'm learning IOS development.
 * 🤝  I'm open to collaborating on Open Source Project
 * ⚡  I also do competitive programming and actively participate in contests on platforms like LeetCode, CodeChef and CodeForces.
