@@ -10,7 +10,7 @@
 
 * 🌍 San Francisco Bay Area, CA
 * ✉️  You can contact me at [kayalsoham61@gmail.com](mailto:kayalsoham61@gmail.com)
-* 🔭  I.m working on Full-Stack and Blockchain Development.
+* 🔭  I.m working on Full-Stack and building Agentic Systems.
 * 🧠  I'm learning IOS development.
 * 🤝  I'm open to collaborating on Open Source Project
 * ⚡  I also do competitive programming and actively participate in contests on platforms like LeetCode, CodeChef and CodeForces.
