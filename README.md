@@ -11,11 +11,6 @@
   <a href="mailto:kayalsoham61@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sohamkayal4103&label=Profile%20Views&color=0891b2&style=flat-square" alt="Profile views" />
-  <a href="https://github.com/Sohamkayal4103?tab=followers"><img src="https://img.shields.io/github/followers/Sohamkayal4103?label=Followers&style=flat-square&color=0891b2" /></a>
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
@@ -73,23 +68,6 @@
   <a href="https://codeforces.com/profile/kayalsoham61"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
   <a href="https://www.codechef.com/users/sohamk_4103"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
   <a href="https://auth.geeksforgeeks.org/user/kayalsoham61/practice"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sohamkayal4103&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Sohamkayal4103&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohamkayal4103&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Most%20Used%20Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sohamkayal4103&theme=algolia&no-frame=true&no-bg=true&column=7" />
 </p>
 
 ---
