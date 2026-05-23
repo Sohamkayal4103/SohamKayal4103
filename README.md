@@ -16,7 +16,7 @@
 ## 🧑‍💻 About Me
 
 - 🌍 Based in the **San Francisco Bay Area, CA**
-- 🎓 **MS Computer Science** @ UC Santa Cruz (GPA 3.97) , TA in Algorithms, Crytpography and GSR in  and Information Theory 
+- 🎓 **MS Computer Science** @ UC Santa Cruz (GPA 3.97) , TA and GSR in Algorithms, Crytpography and Information Theory 
 - 💼 Previously **SDE Intern @ Amazon** · Building agentic & full-stack systems
 - 💼 Incoming **SWE @ Microsoft** · Microsoft AI Development Acceleration Program (MAIDAP).
 - 🧠 Currently exploring **iOS development** (Swift / SwiftUI) and **on-device AI** and building **Agentic AI Systems**
