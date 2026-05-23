@@ -16,9 +16,11 @@
 ## 🧑‍💻 About Me
 
 - 🌍 Based in the **San Francisco Bay Area, CA**
-- 🎓 **MS Computer Science** @ UC Santa Cruz (GPA 3.96)
+- 🎓 **MS Computer Science** @ UC Santa Cruz (GPA 3.97) , TA in Algorithms, Crytpography and GSR in  and Information Theory 
 - 💼 Previously **SDE Intern @ Amazon** · Building agentic & full-stack systems
-- 🧠 Currently exploring **iOS development** (Swift / SwiftUI) and **on-device AI**
+- 💼 Incoming **SWE @ Microsoft** · Microsoft AI Development Acceleration Program (MAIDAP).
+- 🧠 Currently exploring **iOS development** (Swift / SwiftUI) and **on-device AI** and building **Agentic AI Systems**
+- 🧠 Researching on graphs and clusters created in Citation Networks (AAAI, Neurips, ICML, ICLR)
 - 🏆 **Knight on LeetCode** (top 5%) · **Silver @ ICPC Regionals 2025** · **15× hackathon winner**
 - 🤝 Open to collaborating on **open source** and **AI / systems** projects
 - ✉️  Reach me at [kayalsoham61@gmail.com](mailto:kayalsoham61@gmail.com)
